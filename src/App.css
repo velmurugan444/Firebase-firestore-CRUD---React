@@ -1,0 +1,64 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.header {
+  color: black;
+  font-size: 27px;
+  margin-top: 4%;
+}
+.container {
+  max-width: 50%;
+  margin-top: 2%;
+  margin-left: auto;
+  margin-right: auto;
+  background: #d198c5;
+  height: 90px;
+}
+.secondcontainer {
+  max-width: 50%;
+  margin-top: 2%;
+  margin-left: auto;
+  margin-right: auto;
+  background: #e0c568;
+}
+.bigicon {
+  font-size: 35px;
+  color: #36a0ff;
+}
+.form-control {
+  margin-left: 30%;
+  margin-top: 4%;
+}
+
+#taskdata {
+  margin-left: 5%;
+}
+.btn-info {
+  color: #326128;
+  background-color: red;
+  border-color: #17a2b8;
+  margin-left: 40%;
+}
+.trash {
+  margin-left: 2%;
+  color: red;
+}
+.update {
+  margin-left: 3%;
+  color: green;
+}
+#id {
+  margin-left: 41%;
+}
+p {
+  margin-left: 32%;
+}
+.addtask {
+  margin-left: 3%;
+  color: navy;
+}
